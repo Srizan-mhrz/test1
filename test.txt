@@ -16,7 +16,7 @@ Ans=c) 10
 6. What is the output of the following code?
 String str = "abcde";
 System.out.println(str.substring(1, 3));
-Ans=c) bcd
+Ans=b) bc
 
 7. What will be the output of the given code
 Ans=72,12
